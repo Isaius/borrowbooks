@@ -53,4 +53,5 @@ searchByKeys teste ["Sci-fi", "Tech"]
 
 #### check if there are some due borroments
 ```
-checkDueBorrowments teste (30, 7, 2021)```
+checkDueBorrowments teste (30, 7, 2021)
+```
