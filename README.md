@@ -51,7 +51,7 @@ checkAvailability teste "Neuromancer"
 searchByKeys teste ["Sci-fi", "Tech"]
 ```
 
-#### check if there are some due borroments
+#### check if there are some due borrowments
 ```
 checkDueBorrowments teste (30, 7, 2021)
 ```
